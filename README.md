@@ -1,5 +1,5 @@
 
-**EmoSense — AI Mental Health Companion**
+**EmoSense AI Mental Health Companion**
 *Project Brief*
 
 **What it is**
